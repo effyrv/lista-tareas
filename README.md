@@ -2,7 +2,7 @@
 
 Este es un proyecto simple de una lista de tareas desarrollada con **React**. Permite agregar, completar y eliminar tareas de forma interactiva.
 
-![Vista previa de la lista de tareas](https://ibb.co/bQGZHhh)
+![Vista previa de la lista de tareas](https://i.ibb.co/ZGbPHss/tareas.jpg)
 
 ## Características
 
